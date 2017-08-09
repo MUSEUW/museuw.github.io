@@ -1,0 +1,62 @@
+/* === GENERAL STYLE === */
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Crimson Text', Times, serif;
+}
+
+html, body {
+  height: 100%;
+  min-height: 100%;
+  background-color: #FFFAFA;
+  position: relative;
+}
+
+.content {
+  display: block;
+  margin: auto;
+  padding: 2em;
+  width: 75%;
+}
+
+.logo {
+  display: block;
+  margin: auto;
+  /*max-height: 300px;*/
+  max-width: calc(100% - 40px);
+  padding: 20px;
+}
+
+.header {
+  display: block;
+  margin: auto;
+  width: 75%;
+}
+
+.nav {
+  overflow: hidden;
+}
+
+/*
+
+@small media, logo width 75% of screen and 25% for the menu click			visibility: hidden;
+*/
+
+
+@media (max-width: 601px) {
+  .logo {
+    width: 75%;
+    margin: 0;
+    left: 0;
+  }
+
+  .header {
+    width: 100%;
+  }
+
+  .content {
+    width: 100%;
+  }
+}
