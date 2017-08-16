@@ -50,7 +50,12 @@ html, body {
   vertical-align: center;
   display: block;
   float: left;
-  padding: 1em;
+  padding: 20px;
+  width: 6.25em; /* 1.25 (font size) times 5em, which should be larger than "Facebook," the longest navItem */
+}
+
+.navItem a:hover {
+  background-color: #000;
 }
 
 /*
