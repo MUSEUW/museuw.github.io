@@ -45,6 +45,7 @@ html, body {
 
 .navItem {
   color: #fff;
+  display: inline-block;
   float: left;
   padding: 3px;
 }
@@ -68,5 +69,9 @@ html, body {
 
   .content {
     width: 100%;
+  }
+  
+  .nav {
+    visibility: hidden;
   }
 }
