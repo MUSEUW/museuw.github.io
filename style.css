@@ -63,6 +63,10 @@ html, body {
   background-color: #ccc8c8;
 }
 
+a.navItem:visited, a.navItem:active {
+  color: #ccc8c8;
+}
+
 /*
 
 @small media, logo width 75% of screen and 25% for the menu click			visibility: hidden;
