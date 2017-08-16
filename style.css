@@ -60,11 +60,11 @@ html, body {
 }
 
 .navItem:hover {
-  background-color: #ccc8c8;
+  background-color: #d9d4d4;
 }
 
 a.navItem:visited, a.navItem:active {
-  color: #ccc8c8;
+  color: #000;
 }
 
 /*
