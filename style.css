@@ -56,7 +56,7 @@ html, body {
   width: 6.25em; /* 1.25 (font size) times 5em, which should be larger than "Facebook," the longest navItem */
 }
 
-.navItem a:hover {
+.navItem:hover {
   background-color: #000;
 }
 
