@@ -45,6 +45,8 @@ html, body {
 
 .navItem {
   color: #fff;
+  font-decoration: bold;
+  font-size: 1.25em;
   display: inline-block;
   float: left;
   padding: 3px;
