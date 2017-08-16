@@ -36,7 +36,10 @@ html, body {
 }
 
 .nav {
+  background-color: #59181d;
   overflow: hidden;
+  width: 100%;
+  height: 3em;
 }
 
 /*
