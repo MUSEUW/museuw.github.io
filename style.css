@@ -47,9 +47,10 @@ html, body {
   color: #fff;
   font-decoration: bold;
   font-size: 1.25em;
+  vertical-align: center;
   display: block;
   float: left;
-  padding: 3px;
+  padding: 1em;
 }
 
 /*
