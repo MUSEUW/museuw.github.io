@@ -47,7 +47,8 @@ html, body {
   color: #fff;
   font-decoration: bold;
   font-size: 1.25em;
-  vertical-align: center;
+  vertical-align: middle;
+  text-align: center;
   display: block;
   float: left;
   padding: 20px;
