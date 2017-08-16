@@ -37,7 +37,8 @@ html, body {
 
 .nav {
   border: 2px solid #e6e1e1;
-  border-radius: 5px;
+  border-radius: 7px;
+  background-color: #f2eded;
   /* background-color: #ac898c; */
   overflow: hidden;
   margin: auto;
