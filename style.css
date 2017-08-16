@@ -36,11 +36,12 @@ html, body {
 }
 
 .nav {
-  background-color: #ac898c;
+  border: 2px solid #e6e1e1;
+  border-radius: 5px;
+  /* background-color: #ac898c; */
   overflow: hidden;
   margin: auto;
   width: 75%;
-  /* height: 3em; */
 }
 
 .navItem {
