@@ -38,8 +38,15 @@ html, body {
 .nav {
   background-color: #59181d;
   overflow: hidden;
-  width: 100%;
+  margin: auto;
+  width: 75%;
   height: 3em;
+}
+
+.navItem {
+  color: #fff;
+  float: left;
+  padding: 3px;
 }
 
 /*
