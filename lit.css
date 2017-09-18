@@ -1,0 +1,85 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Raleway', 'Helvetica', 'Arial', sans-serif;
+}
+
+html, body {
+  height: 100%;
+  min-height: 100%;
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/5/50/John_Martin_-_The_Great_Day_of_His_Wrath_-_Google_Art_Project.jpg");
+  background-size: 1920px;
+  position: relative;
+}
+
+p, a, h1, h2 {
+  color: #FFF;
+  text-decoration: none;
+  display: block;
+  font-size: 1.1em;
+  text-align: center;
+}
+
+p, a {
+  font-size: 1.1em;
+  padding: 1em 2em;
+}
+
+h1 {
+  font-size: 5em;
+  padding: .5em;
+}
+
+h2 {
+  font-size: 3.5em;
+  padding: .5em;
+}
+
+.litContainer {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform:translate(-50%, -50%)
+}
+
+.litContainer p {
+  color: #FFF;
+}
+
+.buttonContainer1 {
+  float: left;
+  position: relative;
+  left: 50%;
+}
+
+.buttonContainer2 {
+  float: left;
+  position: relative;
+  left: -50%;
+}
+
+.litButton {
+  border: 2px solid #FFF;
+  float: left;
+  margin: 1em;
+  width: 11em;
+}
+
+.litButton:hover {
+  background-color: #FFF;
+  background-color: rgba(255, 255, 255, 0.5);
+}
+
+.litButton:hover a {
+  color: #000;
+  color: #FFF;
+}
+
+@media (max-width: 850px) {
+  .litButton {
+    clear: both;
+    float: none;
+  }
+}
