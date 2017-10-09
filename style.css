@@ -56,6 +56,7 @@ h2 {
   float: left;
   position: relative;
   left: 50%;
+  padding: 5vh;
 }
 
 .buttonContainer2 {
@@ -82,6 +83,7 @@ h2 {
 }
 
 @media (max-width: 850px) {
+  
   .litButton {
     clear: both;
     float: none;
@@ -96,4 +98,5 @@ h2 {
     font-size: 10.5vw;
     font-weight: bold;
   }
+  
 }
