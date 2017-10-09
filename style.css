@@ -31,7 +31,7 @@ p {
 }
 
 h1 {
-  font-size: 5vw;
+  font-size: 5em;
   padding: .5em;
 }
 
@@ -85,5 +85,13 @@ h2 {
   .litButton {
     clear: both;
     float: none;
+  }
+  
+  h1 {
+    font-size: 20vw;
+  }
+  
+  h2 {
+    font-size: 14vw;
   }
 }
