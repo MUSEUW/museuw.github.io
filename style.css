@@ -14,7 +14,7 @@ html, body {
   position: relative;
 }
 
-p, a, h1, h2 {
+.litContainer p, a, h1, h2 {
   color: #FFF;
   text-decoration: none;
   display: block;
