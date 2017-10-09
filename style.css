@@ -18,7 +18,6 @@ p, a, h1, h2 {
   color: #FFF;
   text-decoration: none;
   display: block;
-  font-size: 1.1em;
   text-align: center;
 }
 
@@ -27,8 +26,12 @@ p, a {
   padding: 1em 2em;
 }
 
+p {
+  text-align: left;
+}
+
 h1 {
-  font-size: 5em;
+  font-size: 5vw;
   padding: .5em;
 }
 
