@@ -109,4 +109,15 @@ h2 {
   html, body {
     overflow-x: visible;
   }
+  
+    h1 {
+    font-size: 10.5vw;
+    font-weight: bold;
+  }
+  
+  h2 {
+    font-size: 7.875vw;
+    font-weight: bold;
+  }
+  
 }
