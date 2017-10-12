@@ -103,7 +103,7 @@ h2 {
 @media (max-width: 850px) and (orientation: landscape) {
   
   .litContainer {
-    padding-top: 10vw;
+    padding-top: 20vw;
   }
   
   html, body {
