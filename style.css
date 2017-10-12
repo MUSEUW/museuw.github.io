@@ -102,19 +102,8 @@ h2 {
 
 @media (max-width: 850px) and (orientation: landscape) {
   
-  .litButton {
-    clear: both;
-    float: none;
-  }
-  
-  h1 {
-    font-size: 15vw;
-    font-weight: bold;
-  }
-  
-  h2 {
-    font-size: 10.5vw;
-    font-weight: bold;
+  .litContainer {
+    padding-top: 10vw;
   }
   
   html, body {
