@@ -14,13 +14,13 @@ html, body {
   position: relative;
 }
 
-p, a, ul, li, h1, h2 {
+p, a, li, h1, h2 {
   color: #FFF;
   text-decoration: none;
   display: block;
 }
 
-p, a, ul, li {
+p, a {
   font-size: 1.1em;
   padding: 1em 2em;
 }
@@ -30,6 +30,7 @@ p {
 }
 
 ul {
+  font-size: 1.1em;
   padding-left: 2.5%;
 }
 
