@@ -37,7 +37,7 @@ li {
 }
 
 ul {
-  padding-left: 2.5%;
+  padding-left: 4em;
 }
 
 h1 {
@@ -46,6 +46,11 @@ h1 {
 }
 
 h2 {
+  font-size: 3.5em;
+  padding: 2.5vh 0, 0, 5vh;
+}
+
+h2 .litContainer {
   font-size: 3.5em;
   padding: 0 0 5vh 0;
 }
