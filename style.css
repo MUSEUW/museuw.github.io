@@ -9,7 +9,7 @@ html, body {
   height: 100%;
   min-height: 100%;
   overflow-x: hidden;
-  background-image: url("https://museuw.github.io/background.jpg");
+  background-image: url("http://museliterati.com/background.jpg");
   background-size: cover;
   position: relative;
 }
@@ -103,7 +103,7 @@ h2 {
 @media (max-width: 850px) and (orientation: landscape) {
   
   .litContainer {
-    padding-top: 20vw;
+    padding-top: 30vw;
   }
   
   html, body {
