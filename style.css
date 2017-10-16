@@ -112,6 +112,8 @@ h2 {
 
 .content a {
   padding: 0;
+  text-decoration: auto;
+  display: inline;
 }
 
 @media (max-width: 850px) {
