@@ -14,7 +14,7 @@ html, body {
   position: relative;
 }
 
-p, a, li, h1, h2 {
+p, a, h1, h2 {
   color: #FFF;
   text-decoration: none;
   display: block;
@@ -29,7 +29,10 @@ p {
   text-align: left;
 }
 
-ul {
+li {
+  display: list-item;
+  color: #FFF;
+  text-decoration: none;
   font-size: 1.1em;
   padding-left: 2.5%;
 }
