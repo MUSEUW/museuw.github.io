@@ -110,6 +110,10 @@ h2 {
   padding: 0;
 }
 
+.content a {
+  padding: 0;
+}
+
 @media (max-width: 850px) {
   
   .litButton {
