@@ -112,7 +112,7 @@ h2 {
 
 .content a {
   padding: 0;
-  text-decoration: auto;
+  text-decoration: underline;
   display: inline;
 }
 
