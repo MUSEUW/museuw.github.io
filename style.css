@@ -119,7 +119,7 @@ h2 {
   display: inline;
 }
 
-@media (max-width: 1024px) {
+@media (max-width: 850px) {
   
   .litButton {
     clear: both;
@@ -142,7 +142,7 @@ h2 {
   
 }
 
-@media (max-width: 1024px) and (orientation: landscape) {
+@media (max-width: 850px) and (orientation: landscape) {
   
   .litContainer {
     padding-top: 30vw;
